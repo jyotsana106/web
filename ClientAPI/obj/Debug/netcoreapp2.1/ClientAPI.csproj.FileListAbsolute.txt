@@ -1,0 +1,14 @@
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.csprojAssemblyReference.cache
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.csproj.CoreCompileInputs.cache
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.RazorAssemblyInfo.cache
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.RazorAssemblyInfo.cs
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.AssemblyInfoInputs.cache
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.AssemblyInfo.cs
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\bin\Debug\netcoreapp2.1\ClientAPI.deps.json
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\bin\Debug\netcoreapp2.1\ClientAPI.runtimeconfig.json
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\bin\Debug\netcoreapp2.1\ClientAPI.runtimeconfig.dev.json
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\bin\Debug\netcoreapp2.1\ClientAPI.dll
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\bin\Debug\netcoreapp2.1\ClientAPI.pdb
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.RazorTargetAssemblyInfo.cache
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.dll
+D:\Webnojone\WebAPI-Folder\API-SQLite\ClientAPI\obj\Debug\netcoreapp2.1\ClientAPI.pdb
